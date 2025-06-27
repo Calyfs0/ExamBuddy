@@ -1,4 +1,4 @@
-# Study Planner App – MVP Strategy & Roadmap
+# README
 
 ## 🎯 Target Audience
 Competitive exam aspirants in India:  
