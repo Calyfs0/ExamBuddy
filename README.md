@@ -32,7 +32,47 @@ Competitive exam aspirants in India:
    - Streak badges for consistency
    - AI-based daily tips
 
+Note: Store syllabus as JSON modules, not hardcoded UI.
+      Use Rule based login first rather than AI.
 ---
+Alternate plan:
+
+Here’s the true MVP order (not all features are equal):
+
+###🔥 Tier 1 (Must-have to launch)
+
+Login (Email/Phone)
+
+Exam + date selection
+
+Daily available hours
+
+Plan generator (basic)
+
+Today’s checklist
+
+Mark complete + save progress
+
+👉 You can launch beta with just this.
+
+###🚀 Tier 2 (Retention & delight)
+
+Notifications (FCM)
+
+Streaks & simple progress chart
+
+Edit plan manually
+
+
+###💰 Tier 3 (Monetization)
+
+Multiple plans
+
+PDF export
+
+AI daily tips
+
+Payments via Razorpay
 
 ## 🛠️ Recommended Tech Stack
 
