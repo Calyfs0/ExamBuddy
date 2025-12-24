@@ -36,7 +36,7 @@ Competitive exam aspirants in India:
 
 ## 🛠️ Recommended Tech Stack
 
-- **Frontend:** Kotlin + Jetpack Compose
+- **Frontend:** Flutter
 - **Backend/DB:** Firebase (Firestore, Auth, Storage)
 - **Notifications:** Firebase Cloud Messaging
 - **Payments:** Razorpay
